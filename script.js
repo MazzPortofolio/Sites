@@ -8,6 +8,14 @@ const prestasiData = [
         ranking: 1,
         tags: ["Canva", "Poster", "Nasional"]
     },
+     {
+        title: "Turkish Universities Fair",
+        description: "1St Place Awards Of Turkish Universities Fair Poster Competitions",
+        date: "2025",
+        image: "Assets/Achievements/TUF.png",
+        ranking: 1,
+        tags: ["Poster",]
+    },
       {
         title: "2nd Poster Competitions (x3)",
         description: "3 Awards Of 2nd Poster Competitions Events",
@@ -15,6 +23,14 @@ const prestasiData = [
         image: "Assets/Achievements/SecondPlacePoster.png",
         ranking: 2,
         tags: ["Canva", "Poster", "Nasional"]
+    },
+    {
+        title: "LKP Scout Events",
+        description: "2nd Place Awards Of LKP Scout Events",
+        date: "2025",
+        image: "Assets/Achievements/LKP.png",
+        ranking: 2,
+        tags: ["Scout",]
     },
     {
         title: "3rd Poster Competitions (x2)",
@@ -32,22 +48,8 @@ const prestasiData = [
         ranking: 3,
         tags: ["C#", "SQLServer",]
     },
-     {
-        title: "LKP Scout Events",
-        description: "2nd Place Awards Of LKP Scout Events",
-        date: "2025",
-        image: "Assets/Achievements/LKP.png",
-        ranking: 2,
-        tags: ["Scout",]
-    },
-     {
-        title: "Turkish Universities Fair",
-        description: "1St Place Awards Of Turkish Universities Fair Poster Competitions",
-        date: "2025",
-        image: "Assets/Achievements/TUF.png",
-        ranking: 1,
-        tags: ["Poster",]
-    },
+     
+    
     // Tambahkan data prestasi lainnya jika ada
 ];
 
